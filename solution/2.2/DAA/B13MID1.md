@@ -216,7 +216,6 @@ Here’s the **detailed bubble-sort trace** on the array
 
 Showing every comparison and swap, pass by pass.
 
----
 
 ### Pass 1 (compare indices 0…5, bubbling the largest to index 6)
 
@@ -235,7 +234,6 @@ Showing every comparison and swap, pass by pass.
 
 > End of Pass 1 array: **\[30, 20, 10, 15, 12, 12, 40]**
 
----
 
 ### Pass 2 (compare 0…4, bubbling 30 to index 5)
 
@@ -254,7 +252,6 @@ Showing every comparison and swap, pass by pass.
 
 > End of Pass 2 array: **\[20, 10, 15, 12, 12, 30, 40]**
 
----
 
 ### Pass 3 (compare 0…3, bubbling 20 to index 4)
 
@@ -271,7 +268,6 @@ Showing every comparison and swap, pass by pass.
 
 > End of Pass 3 array: **\[10, 15, 12, 12, 20, 30, 40]**
 
----
 
 ### Pass 4 (compare 0…2, bubbling 15 to index 3)
 
@@ -284,7 +280,6 @@ Showing every comparison and swap, pass by pass.
 
 > End of Pass 4 array: **\[10, 12, 12, 15, 20, 30, 40]**
 
----
 
 ### Pass 5 (compare 0…1)
 
@@ -297,7 +292,6 @@ Showing every comparison and swap, pass by pass.
 
 **Final sorted array:** \[10, 12, 12, 15, 20, 30, 40]
 
----
 
 > **Answered Questions:** 1(a), 1(b), 3(a), 3(b), 3(c)
 > **Total = 10 + 10 = 20 marks**
