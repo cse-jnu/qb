@@ -1,0 +1,34 @@
+{
+  "question": {
+    "22": {
+      "title": "2nd Year, 2nd Semester",
+      "courses": [
+        {
+          "title": "Computer Architecture",
+          "questions": [
+            {
+              "batch": "B13",
+              "fileName": "b13.md"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "solution": {
+    "22": {
+      "title": "2nd Year, 2nd Semester",
+      "courses": [
+        {
+          "title": "Computer Architecture",
+          "questions": [
+            {
+              "batch": "B13",
+              "fileName": "b13.md"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
