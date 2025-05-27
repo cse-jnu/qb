@@ -21,3 +21,10 @@ just_the_docs:
   # Navigation options here...
 include:
   - _includes/head-custom.html
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Folder:
+      - "Subpage 1": folder/subpage1.md
+      - "Subpage 2": folder/subpage2.md
