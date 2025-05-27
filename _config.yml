@@ -1,16 +1,21 @@
-title: My Project Docs
-theme: "just-the-docs"
+title: My Project Documentation   # Your site title
+theme: just-the-docs
+
+# Markdown processor
 markdown: kramdown
 
+# Enable math with MathJax
 kramdown:
   math_engine: mathjax
   syntax_highlighter_opts:
-    disable : true
+    disable: true
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Enable mathjax
-mathjax:
-  enable: true
+# Just the Docs settings (optional)
+just_the_docs:
+  # Enable sidebar navigation on mobile
+  show_sidebar_on_mobile: true
+  # Navigation options here...
