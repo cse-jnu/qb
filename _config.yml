@@ -1,6 +1,16 @@
+title: My Project Docs
+theme: "just-the-docs"
+markdown: kramdown
+
 kramdown:
   math_engine: mathjax
-  math_engine_opts:
-    preview: false
-theme: minima
-markdown: kramdown
+  syntax_highlighter_opts:
+    disable : true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Enable mathjax
+mathjax:
+  enable: true
