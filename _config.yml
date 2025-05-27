@@ -19,3 +19,5 @@ just_the_docs:
   # Enable sidebar navigation on mobile
   show_sidebar_on_mobile: true
   # Navigation options here...
+include:
+  - _includes/head-custom.html
